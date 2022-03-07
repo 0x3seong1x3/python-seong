@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(void)
+{
+printf("신민준 병싄쉨ㅋㅋ"\n);
+}
+return 0;
